@@ -2,3 +2,4 @@ Student Registration Feature
 Name: Rohini Jakkam
 Course: DevOps
 Status: Active
+Hotfix: Corrected student registration issue
